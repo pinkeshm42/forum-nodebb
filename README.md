@@ -34,8 +34,17 @@ To test the connection you can use MongoDB Compass `mongodb://root:root@localhos
 nodebb install
 ```
 
-Should lunch the web installer.  Insert username, email, pwd for the NodeBB forum and click Install NodeBB.  
+Should lunch the web installer. Insert username, email, pwd for the NodeBB forum and click Install NodeBB.  
 
+
+### Other plugins
+```
+npm install nodebb-plugin-emailer-sendgrid
+npm install nodebb-plugin-embed
+npm install nodebb-plugin-s3-uploads-digitalocean
+npm install nodebb-plugin-share-post-icons
+npm install nodebb-theme-timuu
+```
 
 ## Links
 
