@@ -1,0 +1,14 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "8afea113-6bd9-414b-9e9e-62deec9849af",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "root",
+        "password": "root",
+        "database": "nodebb",
+        "uri": "mongodb://root:root@localhost:27017/?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false"
+    },
+    "port": "4567"
+}
